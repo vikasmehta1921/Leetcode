@@ -1,14 +1,9 @@
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
-        vector<int> ans;
-
-        for(int x : nums){
-            ans.push_back(x);
-        }
-        for(int x : nums){
-            ans.push_back(x);
-        }
+        vector<int> ans = nums;
+        ans.insert(ans.end(),nums.begin(),nums.end());
         return ans;
+        
     }
 };
