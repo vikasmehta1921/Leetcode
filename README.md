@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikasmehta1921/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1929-concatenation-of-array](https://github.com/vikasmehta1921/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasmehta1921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vikasmehta1921/Leetcode/tree/master/0242-valid-anagram) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasmehta1921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -86,9 +88,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vikasmehta1921/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vikasmehta1921/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
