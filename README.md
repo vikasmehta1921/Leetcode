@@ -100,8 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vikasmehta1921/Leetcode/tree/master/0242-valid-anagram) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Matrix
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/vikasmehta1921/Leetcode/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
