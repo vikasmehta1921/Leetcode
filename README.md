@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikasmehta1921/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1929-concatenation-of-array](https://github.com/vikasmehta1921/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/vikasmehta1921/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasmehta1921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0189-rotate-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasmehta1921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
