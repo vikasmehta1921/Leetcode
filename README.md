@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasmehta1921/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/vikasmehta1921/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vikasmehta1921/Leetcode/tree/master/0994-rotting-oranges) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikasmehta1921/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasmehta1921/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasmehta1921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikasmehta1921/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
