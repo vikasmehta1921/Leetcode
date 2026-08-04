@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vikasmehta1921/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vikasmehta1921/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/vikasmehta1921/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikasmehta1921/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikasmehta1921/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikasmehta1921/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vikasmehta1921/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/vikasmehta1921/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vikasmehta1921/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasmehta1921/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikasmehta1921/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/vikasmehta1921/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/vikasmehta1921/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Union-Find
 |  |
@@ -187,5 +190,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vikasmehta1921/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vikasmehta1921/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
