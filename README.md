@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vikasmehta1921/Leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasmehta1921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
