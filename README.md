@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vikasmehta1921/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasmehta1921/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/vikasmehta1921/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/vikasmehta1921/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vikasmehta1921/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikasmehta1921/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikasmehta1921/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikasmehta1921/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/vikasmehta1921/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/vikasmehta1921/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Union-Find
 |  |
