@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vikasmehta1921/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/vikasmehta1921/Leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/vikasmehta1921/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikasmehta1921/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/vikasmehta1921/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikasmehta1921/Leetcode/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/vikasmehta1921/Leetcode/tree/master/3731-find-missing-elements) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vikasmehta1921/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
