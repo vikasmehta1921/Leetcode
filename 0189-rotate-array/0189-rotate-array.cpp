@@ -1,10 +1,20 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        k = k%nums.size();
-        reverse(nums.begin(),nums.end());
-        reverse(nums.begin(),nums.begin()+k);
-        reverse(nums.begin()+k,nums.end());
+        int n = nums.size();
+
+        k = k%n;
+
+        auto reverse = [&](int i , int j){
+            while(i<j){
+                swap(nums[i],nums[j]);
+                i++;
+                j--;
+            }
+        };
+        reverse(0,n-1);
+        reverse(0,k-1);
+        reverse(k,n-1);
         
     }
 };
