@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vikasmehta1921/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/vikasmehta1921/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vikasmehta1921/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasmehta1921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vikasmehta1921/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/vikasmehta1921/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikasmehta1921/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasmehta1921/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vikasmehta1921/Leetcode/tree/master/0055-jump-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vikasmehta1921/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vikasmehta1921/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
