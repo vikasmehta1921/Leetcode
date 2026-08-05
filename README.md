@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vikasmehta1921/Leetcode/tree/master/0035-search-insert-position) |
 | [0099-recover-binary-search-tree](https://github.com/vikasmehta1921/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vikasmehta1921/Leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vikasmehta1921/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/vikasmehta1921/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vikasmehta1921/Leetcode/tree/master/0055-jump-game) |
