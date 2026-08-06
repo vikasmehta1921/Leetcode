@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vikasmehta1921/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikasmehta1921/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/vikasmehta1921/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vikasmehta1921/Leetcode/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vikasmehta1921/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/vikasmehta1921/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vikasmehta1921/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vikasmehta1921/Leetcode/tree/master/0994-rotting-oranges) |
 ## Design
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikasmehta1921/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/vikasmehta1921/Leetcode/tree/master/0547-number-of-provinces) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikasmehta1921/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vikasmehta1921/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
