@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vikasmehta1921/Leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasmehta1921/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/vikasmehta1921/Leetcode/tree/master/1390-four-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasmehta1921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
