@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikasmehta1921/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1390-four-divisors](https://github.com/vikasmehta1921/Leetcode/tree/master/1390-four-divisors) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vikasmehta1921/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vikasmehta1921/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/vikasmehta1921/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/vikasmehta1921/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vikasmehta1921/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vikasmehta1921/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vikasmehta1921/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vikasmehta1921/Leetcode/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vikasmehta1921/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -236,4 +238,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vikasmehta1921/Leetcode/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vikasmehta1921/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vikasmehta1921/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vikasmehta1921/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vikasmehta1921/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vikasmehta1921/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
